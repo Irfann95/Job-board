@@ -6,7 +6,7 @@ As part of a school project, two colleagues and I created a job offers website n
 <h2> Tools and techologies used</h2>
  <h3> Front-end : React.js</h3>
  <h3> Back-end : Node.js & Express.js</h3>
- <h3> Front-end : MySql</h3>
+ <h3> DataBase : MySql</h3>
 
 <h2>How to run the website ?</h2>
 First, download the folder "job_board". Then, go to the folder since your terminal and type :
